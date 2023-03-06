@@ -1,4 +1,10 @@
 import Foundation
+//  Created by Alexander Matheson
+//  Created on 2023-Mar-01
+//  Version 1.0
+//  Copyright (c) 2023 Alexander Matheson. All rights reserved.
+//
+//  This program calculates the length of a board.
 
 // Enum for error checking
 enum InputError: Error {
